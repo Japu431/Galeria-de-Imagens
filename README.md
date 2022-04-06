@@ -2,7 +2,7 @@
 
 <p>If you use Node.js, you can also install Sass using npm by running</p>
 
-``npm install -g sass`
+`npm install -g sass`
 
 <p>if you use the Chocolatey package manager for Windows, you can install Dart Sass by running
 
